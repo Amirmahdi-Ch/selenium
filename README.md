@@ -6,4 +6,8 @@
 نکته!: تمامی element ها را به وسیله ی xpath آن به دست آوردیم.
 
 
-لینک پروژه تست شده :‌https://github.com/arnab-datta/counter-app	
+لینک پروژه تست شده :‌https://github.com/arnab-datta/counter-app
+
+
+پروژه ی نمره اضافه هم اضافه شد
+لینک پروژه:https://github.com/ahfarmer/calculator
